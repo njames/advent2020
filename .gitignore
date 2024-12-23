@@ -2,6 +2,7 @@
 venv/
 .idea/
 .DS_Store
+**/target/*
 
 
 # Added by cargo

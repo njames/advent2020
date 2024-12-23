@@ -8,4 +8,3 @@ pub fn main() {
             .unwrap(),
     );
 }
-// ../../input/day02/input02.txt'
